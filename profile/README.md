@@ -1,6 +1,8 @@
 <div align="center">
 
-# 🧠 Solo Memory
+<img src="https://raw.githubusercontent.com/solomemory-ai/.github/main/brand/logo-mark-black-whitebg.png" alt="Solo Memory" width="120">
+
+# Solo Memory
 
 ### Memory for every AI on Earth
 
