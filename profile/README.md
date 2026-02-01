@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/solomemory-ai/.github/main/brand/logo-mark-black-whitebg.png" alt="Solo Memory" width="120">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/solomemory-ai/.github/main/brand/logo-mark-white-transparent.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/solomemory-ai/.github/main/brand/logo-mark-black-whitebg.png">
+  <img src="https://raw.githubusercontent.com/solomemory-ai/.github/main/brand/logo-mark-black-whitebg.png" alt="Solo Memory" width="120">
+</picture>
 
 # Solo Memory
 
